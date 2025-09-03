@@ -1,3 +1,2 @@
-# SWDB 2025 PyNWB Capsule Template
+# Developing HED tags for BCI experiments
 
-Python environment for using PyNWB to access datasets shared as part of SWDB 2025.
